@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://www.co-ode.org/ontologies/pizza/pizza.owl#American">
+    <rdfs:subClassOf rdf:resource="http://www.co-ode.org/ontologies/pizza/pizza.owl#Pizza"/>
+    <rdfs:subClassOf rdf:resource="http://www.co-ode.org/ontologies/pizza/pizza.owl#Food"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b2"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b3"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b4"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b5"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b6"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b7"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b8"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b9"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b10"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b11"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b12"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b13"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b14"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b15"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b16"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b17"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b18"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b19"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b20"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b21"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b22"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b23"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b24"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b25"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b26"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b27"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b28"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b29"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b30"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b31"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b32"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b33"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b34"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b35"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b36"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b37"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b38"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b39"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b40"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b41"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b42"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b43"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b44"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b45"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b46"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b47"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b48"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b49"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b50"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b51"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b52"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b53"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b54"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.co-ode.org/ontologies/pizza/pizza.owl#AmericanHot">
+    <rdfs:subClassOf rdf:resource="http://www.co-ode.org/ontologies/pizza/pizza.owl#Pizza"/>
+    <rdfs:subClassOf rdf:resource="http://www.co-ode.org/ontologies/pizza/pizza.owl#Food"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b2"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b55"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b56"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b57"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b3"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b4"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b5"/>
+    <rdfs:subClassOf rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b6"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.co-ode.org/ontologies/pizza/pizza.owl#Italy">
+    <rdf:type rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b1"/>
+    <rdf:type rdf:resource="http://www.co-ode.org/ontologies/pizza/pizza.owl#Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.co-ode.org/ontologies/pizza/pizza.owl#England">
+    <rdf:type rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b1"/>
+    <rdf:type rdf:resource="http://www.co-ode.org/ontologies/pizza/pizza.owl#Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.co-ode.org/ontologies/pizza/pizza.owl#Germany">
+    <rdf:type rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b1"/>
+    <rdf:type rdf:resource="http://www.co-ode.org/ontologies/pizza/pizza.owl#Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.co-ode.org/ontologies/pizza/pizza.owl#America">
+    <rdf:type rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b1"/>
+    <rdf:type rdf:resource="http://www.co-ode.org/ontologies/pizza/pizza.owl#Country"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.co-ode.org/ontologies/pizza/pizza.owl#France">
+    <rdf:type rdf:nodeID="ndddf11128d43444aa7cc1fa4b03a3c88b1"/>
+    <rdf:type rdf:resource="http://www.co-ode.org/ontologies/pizza/pizza.owl#Country"/>
+  </rdf:Description>
+</rdf:RDF>
